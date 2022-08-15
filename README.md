@@ -18,4 +18,4 @@ example:
 
 2. Make sure to include any required libraries that need to be installed for your project to run.
 
-[View a video explanation here](video link)
+[View a video explanation here](https://youtu.be/Rf-SNP1QJ8w)
